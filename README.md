@@ -1,15 +1,12 @@
 # Lux
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/lux`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome! Lux is an gem for generate templates of for simple, practice and fast with of console of rails. Choose between templates available (since admin té page login between others).
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'lux'
+gem 'lux', '~> 1.0'
 ```
 
 And then execute:
@@ -32,7 +29,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/lux. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kleytonmr/lux. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
